@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gottipati Venkata Naga Pavan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.classicinformatics.com/hubfs/full%20stack%20%281%29.png">
+<h3 align="center">A passionate Full Stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavangottipati&label=Profile%20views&color=0e75b6&style=flat" alt="pavangottipati" /> </p>
 
