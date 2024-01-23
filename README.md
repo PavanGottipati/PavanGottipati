@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MERN Chatting App](https://github.com/PavanGottipati/MERN-Chatting-App)
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MERN Stack, Machine Learning**
