@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gottipati Venkata Naga Pavan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png">
 - 🌱 I’m currently working on **Python Full Stack Development**
 
 - 💬 Ask me about **Python, Web Development, Java, DSA**
