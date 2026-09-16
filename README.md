@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **pavan26g@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive]([https://drive.google.com/file/d/1rIHeJwSyH90X9QpIRwiE8UL7FsByWLXh/view?usp=sharing](https://drive.google.com/drive/my-drive))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MWlXkHzeULZGbRDTQY0EC57xzUkS0_zE/view?usp=sharing]
 
 - ⚡ Fun fact **I am funny**
 
